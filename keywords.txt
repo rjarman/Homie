@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map For Home_Automation
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Home_Automation	KEYWORD1	Home_Automation
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init	KEYWORD2
+getDistance_HC_SR04	KEYWORD2
+get_PIR	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
